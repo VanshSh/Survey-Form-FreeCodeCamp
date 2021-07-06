@@ -1,0 +1,27 @@
+body{
+  background-image:url(https://images.pexels.com/photos/98014/pexels-photo-98014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;  
+}
+form{
+  background-color:rgba(0,0,0,0.8);
+  padding:1.5rem 1.5rem 2rem 8rem;
+  font-weight:bolder;
+  font-size:21px;
+  color:skyblue;
+  font-family:'Times New Roman';
+}
+#submit{
+  align-content:center;
+  border:solid 2px green;
+  border-radius:2rem;
+  margin:1rem 0rem 0rem 25rem;
+  font-size:22px;
+}
+header{
+  text-align:center;
+  font-size:25px;
+  color:blue;
+  
+}
